@@ -16745,3 +16745,4 @@ be:Рамяство
 fr:Artisanat
 es:Artesanía
 ru:Ремесло
+de:Künstlerbedarf
